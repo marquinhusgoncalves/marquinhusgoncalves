@@ -6,7 +6,7 @@ I'm a software engineer
 
 * 🌍  I'm based in Lisbon, Portugal
 * ✉️  You can contact me at [eu@marquinhusgoncalves.com](mailto:eu@marquinhusgoncalves.com)
-* 🧠  I'm learning I never stop to study
+* 🧠  I never stop to study
 
 ### Skills
 
