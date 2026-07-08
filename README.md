@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=520&lines=Software+Engineer+%F0%9F%9A%80;Flutter+%26+React+developer;Full-Stack+builder;Always+learning+something+new+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-🇵🇹 Lisbon, Portugal &nbsp;·&nbsp; ✉️ [eu@marquinhusgoncalves.com](mailto:eu@marquinhusgoncalves.com)
+🇵🇹 Lisbon, Portugal &nbsp;·&nbsp; ✉️ [marcusvslgoncalves@gmail.com](mailto:marcusvslgoncalves@gmail.com)
 
 </div>
 
@@ -54,6 +54,6 @@
 
 ### Connect
 
-<a href="https://www.github.com/marquinhusgoncalves" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/marcusviniciusgoncalves" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://www.twitter.com/marquinhusgonc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>&nbsp;&nbsp;<a href="http://www.instagram.com/marquinhusgoncalves" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" /></a>
+<a href="https://www.github.com/marquinhusgoncalves" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/marcusviniciusgoncalves" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>&nbsp;&nbsp;<a href="https://www.twitter.com/marcusvslgonc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>&nbsp;&nbsp;<a href="http://www.instagram.com/marquinhusgoncalves" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" /></a>
 
 </div>
